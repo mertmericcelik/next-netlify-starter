@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my bulmaca!" />
+        <Header title="Yeni Yıl Bulmacasına Hoş Geldiniz! Başarılar..." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bulmaca gelecek <br> 
+          Buraya da bulmaca gelecek
         </p>
       </main>
 
